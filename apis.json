@@ -1,0 +1,47 @@
+{
+    "name": "MapData Services",
+    "description": "",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/mapdata-services.png",
+    "tags": [
+        "api service provider",
+        "demographics",
+        "gis",
+        "have api",
+        "javascript"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/mapdata-services\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "MapData Services",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/mapdata-services.png",
+            "humanURL": "http:\/\/www.mapds.com.au\/Products\/QuickMapDeveloperToolkit\/tabid\/121\/Default.aspx",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mapdata-services-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/mapdataservices.com\/rss\/news"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/mapdataservices"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.mapds.com.au\/Products\/QuickMapDeveloperToolkit\/tabid\/121\/Default.aspx"
+        }
+    ]
+}
